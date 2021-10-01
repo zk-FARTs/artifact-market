@@ -1,5 +1,6 @@
 {
     "dependencies": {
-        "@darkforest-eth/contracts":"*"
+        "@darkforest-eth/contracts": "*",
+        "ethers": "^5.4.7"
     }
 }
